@@ -69,3 +69,5 @@ target/
 
 # sqlite
 *.sqlite3
+
+py.swp
